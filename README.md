@@ -38,7 +38,7 @@ At now im working as a front-end developer, focused on React JS, but always look
 
 
 <div align="center">
-<img src="https://thumbs.gfycat.com/SardonicInsubstantialApisdorsatalaboriosa-max-1mb.gif" >
+<img src="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fpa1.narvii.com%2F6405%2F65bb84c7953c7bd439508032891d37974b858f9d_00.gif&imgrefurl=https%3A%2F%2Faminoapps.com%2Fc%2Fotanix%2Fpage%2Fblog%2Fsobre-os-gif-png%2F1Qxm_g1f6uddrrKr0gDpnRBBx4PNGgREX8&tbnid=NPnOQSEnSCeSuM&vet=12ahUKEwi226aOn__2AhX8DbkGHbyCA_YQMygWegUIARCmAg..i&docid=4WPJ6acBzmxA5M&w=320&h=240&q=gifs%20png&hl=pt-BR&ved=2ahUKEwi226aOn__2AhX8DbkGHbyCA_YQMygWegUIARCmAg" >
 </div>
 
 
