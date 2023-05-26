@@ -40,6 +40,10 @@ At now im working as a front-end developer, focused on React JS, but always look
 <div align="center">
 <img src="https://i.pinimg.com/originals/14/eb/c8/14ebc88651f61d67a40047ebd563501d.gif" >
 </div>
+  
+<div align="center">
+<img src="[https://i.pinimg.com/originals/14/eb/c8/14ebc88651f61d67a40047ebd563501d.gif](https://i.gifer.com/43a7.gif)" >
+</div>
 
 
 ##
