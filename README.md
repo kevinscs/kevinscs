@@ -19,8 +19,8 @@ At now im working as a front-end developer, focused on React JS, but always look
 
 <div>
   <a href="https://github.com/kevinscs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinscs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinscs&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=kevinscs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinscs&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
 ***
